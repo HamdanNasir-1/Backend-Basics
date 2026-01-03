@@ -1,0 +1,1 @@
+day 1 : things to do -> how to create folder , how to read folder , hoe to read file;   
